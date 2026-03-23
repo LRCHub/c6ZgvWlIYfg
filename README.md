@@ -1,0 +1,41 @@
+# Kalandra – Virkelighetens Etterklang
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:18.36] Hvor er jeg nå?
+[00:26.25] Hvor er jeg nå?
+[00:34.29] Våknet opp og
+[00:42.02] Vil bare gå tilbake
+[00:50.76] Så la meg falle ned
+[00:58.67] Åpne døren til et sted
+[01:06.65] Jeg må tørre å få fred
+[01:14.76] Så ta meg dit ja ta meg hel
+[01:18.80] La meg falle ned
+[01:40.27] Hvor er jeg nå?
+[01:48.13] Hvor er jeg nå?
+[01:56.10] Våknet opp og
+[02:04.17] Vil bare gå tilbake
+[02:12.66] Så la meg falle ned
+[02:20.52] Åpne døren til et sted
+[02:28.50] Jeg må tørre å få fred
+[02:36.45] Så ta meg dit ja ta meg hel
+[02:40.81] La meg falle ned
+[02:46.27] Borte vekk og langt ifra
+[02:50.11] Minner om et sted jeg var
+[02:54.06] Følelsen jeg hadde da
+[02:57.98] Sterkere enn noen gang
+[03:04.19] Virkelighetens etterklang
+[03:12.77] Så la meg falle ned
+[03:20.70] Åpne døren til et sted
+[03:28.83] Jeg må tørre å få fred
+[03:36.81] Så ta meg dit ja ta meg hel
+[03:40.91] La meg falle
+[03:44.98] La meg falle ned
+[03:52.50] Våkne opp et annet sted
+[04:00.75] Jeg må tørre å se ned
+[04:08.75] Å stirre inn i mørkets sjel
+[04:12.95] Ta meg dit ja ta meg hel
+[04:17.25] La meg falle ned
+[04:24.98] La meg falle ned
+```
