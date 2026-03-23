@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Virkelighetens Etterklang",
+  "base_artist": "Kalandra",
+  "createdAt": "2026-03-23T14:46:01.493156Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Virkelighetens Etterklang",
+      "artist": "Kalandra",
+      "has_synced": true,
+      "path": "select/01_Virkelighetens_Etterklang_Kalandra.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Virkelighetens Etterklang",
+      "artist": "Kalandra",
+      "has_synced": true,
+      "path": "select/02_Virkelighetens_Etterklang_Kalandra.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Kalandra - Virkelighetens Etterklang (Official Music Video)",
+      "artist": "kalandramusic",
+      "has_synced": true,
+      "path": "select/03_Kalandra_-_Virkelighetens_Etterklang_(Official_Music_Video)_kalandramusic.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Virkelighetens Etterklang",
+      "artist": "Kalandra",
+      "has_synced": true,
+      "path": "select/04_Virkelighetens_Etterklang_Kalandra.lrc"
+    }
+  ]
+}
